@@ -4,7 +4,7 @@ semaine 2 de la formation simplonline
 ## Exercice 1 de la semaine 2:  
 Avant de trouver cette formation en ligne de simplonline, j'avais déja fait  
 la leçon sur le html et css de codecademy.  
-je vais donc mettre cei-dessous mon lien vers mes badges obtenus ;-).  
+Je vais donc mettre ci-dessous mon lien vers mes badges obtenus ;-).  
 
 ##Badges codecademy cours HTML et CSS.  
 
