@@ -11,4 +11,4 @@ Je vais donc mettre ci-dessous mon lien vers mes badges obtenus ;-).
 https://www.codecademy.com/fr/users/olivetp/achievements  
 
 voila pour les deux premiers exercices de la semaine 2. Je vais maintenant faire mon CV en format HTML  
-une fois celui-ci finis je mettrais un lien dessous pour y accéder!
+une fois celui-ci finit je mettrais un lien dessous pour y accéder!
